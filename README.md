@@ -11,3 +11,9 @@
 Выполнен `git push -u origin master`
 
 Команда `git status` отображает текущее состояние репозитория.
+
+Создана новая ветка от master `git checkout feat/#001` и переключение на эту ветку.
+
+Для просмотра изменений по сравнению с master используем `git diff`
+В файл README.md внесены изменения, файл README.md добавлен в индекс `git add README.md`
+Изменения сохранены `git commit -m "update README.md"`
